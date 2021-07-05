@@ -62,7 +62,7 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
   img{
-    height: 2%;
+    height: 5%;
     width: 8%;
   }
   .logo{
